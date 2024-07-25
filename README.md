@@ -13,6 +13,9 @@
 ## 什么是Networkspeed?
 基于HTML5+CSS3+Layui+ECharts+JavaScript开发的网络在线测速工具，也称为流量杀手、流量消耗器、流量消失器，用于监测当前的网络情况，实时显示当前的网络速率、流量和宽带等信息。
 
+## 项目来源
+基于`NetworkPanel`原始作者的版本做了一些调整，仅保留前端网络测试功能，`NetworkPanel`仓库地址：[NetworkPanel](https://github.com/ljxi/NetworkPanel)
+
 ## 当前功能
 - [x] 内置云端测速节点
 - [x] 支持添加自定义节点
@@ -20,6 +23,9 @@
 - [x] 适配iOS后台运行
 - [x] 流量实时图表
 - [x] 自定义线程数量
+
+## 如何使用？
+请[点此下载](https://github.com/hzh888/networkspeed/archive/refs/heads/main.zip)解压文件部署到服务器根目录即可。
 
 ## 联系方式
 | 联系方式 | 账号 |
