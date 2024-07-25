@@ -4,7 +4,7 @@
 
 ***✨ 网络在线测速工具 ✨***</div>
 <p align="center">
-  <a href="https://github.com/hzh888/picocr"><img alt="Static Badge" src="https://img.shields.io/badge/Python-3.10-8A2BE2?style=flat"></a>
+  <a href="https://github.com/hzh888/picocr"><img alt="Static Badge" src="https://img.shields.io/badge/Lyaui-2.9.10-blue?style=flat"></a>
   <a href="https://github.com/hzh888/picocr"><img alt="GitHub License" src="https://img.shields.io/github/license/hzh888/networkspeed"></a>
   <a href="https://github.com/hzh888/picocr"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/hzh888/networkspeed?style=flat"></a>
   <a href="https://github.com/hzh888/picocr"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hzh888/networkspeed?style=flat"></a>
